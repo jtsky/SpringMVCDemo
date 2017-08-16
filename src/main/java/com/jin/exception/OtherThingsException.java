@@ -1,7 +1,7 @@
 package com.jin.exception;
 
 /**
- * Created by Administrator on 2016/9/25.
+ * Created by jint on 2016/9/25.
  */
 public class OtherThingsException extends Exception {
     public OtherThingsException(String message) {

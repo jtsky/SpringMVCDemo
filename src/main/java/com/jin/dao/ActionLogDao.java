@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by 程 on 2016/10/28.
+ * Created by jint on 2016/10/28.
  */
 public interface ActionLogDao extends Dao<UserActionLog> {
 

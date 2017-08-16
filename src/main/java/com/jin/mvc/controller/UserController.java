@@ -21,7 +21,7 @@ import java.io.IOException;
 
 /**
  * 用户请求相关控制器
- * <br/>Created by acheng on 2016/9/26.
+ * <br/>Created by jint on 2016/9/26.
  */
 @Controller
 @RequestMapping("/userAction")
